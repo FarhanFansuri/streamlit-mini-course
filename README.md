@@ -1,1 +1,4 @@
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit Logo" width="300"/> Streamlit
+<h1 align="center">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit Logo" width="40"/>
+  Streamlit Mini Course
+</h1>
