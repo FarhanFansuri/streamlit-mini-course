@@ -1,1 +1,1 @@
-![Streamlit Logo](https://streamlit.io/images/brand/streamlit-mark-color.png)
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit Logo" width="300"/>
